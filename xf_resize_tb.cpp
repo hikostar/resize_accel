@@ -113,7 +113,7 @@ int main(int argc,char **argv){
 	cv::imwrite("resize_ocv.png", result_ocv);
 	cv::imwrite("error.png", error);
 
-	cv::imshow("output_hls.png", result);
+	//cv::imshow("output_hls.png", result);
 
 	if(maxval>2){
 		printf("\nTest Failed\n");
