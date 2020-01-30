@@ -1,0 +1,9 @@
+
+solution1/solution1.aps
+.cproject
+.project
+.settings/resize_accel.Debug.launch
+*.launch
+.settings/language.settings.xml
+.apc/autopilot.apfmapping
+solution1/solution1.directive
